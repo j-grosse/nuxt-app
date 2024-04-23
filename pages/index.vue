@@ -1,10 +1,11 @@
 <template>
   <div>
+
     <h2>Home</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur
       reiciendis suscipit sint inventore minus eius deserunt repellendus
-      voluptates iste exercitationem ipsam doloremque dicta cupiditate nulla
+      voluptates iste exercitationem ipsam
       consequuntur nesciunt, nam rem sit!
     </p>
   </div>

@@ -3,8 +3,7 @@
     <h2>About</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur
-      reiciendis suscipit sint inventore minus eius deserunt repellendus
-      voluptates iste exercitationem ipsam doloremque dicta cupiditate nulla
+      reiciendis doloremque dicta cupiditate nulla
       consequuntur nesciunt, nam rem sit!
     </p>
   </div>
